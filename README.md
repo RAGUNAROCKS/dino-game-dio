@@ -1,3 +1,5 @@
 # Recriando o famoso jogo do dinossauro sem internet
 
-<h2>Projeto desenvolvido no Bootcamp Javascript Game Development</h2>
+<h4>Projeto desenvolvido no Bootcamp Javascript Game Development</h4>
+
+<h4>Link de Visualização do Jogo: https://ragunarocks.github.io/dino-game-dio/</h4>
